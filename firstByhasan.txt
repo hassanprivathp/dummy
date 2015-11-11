@@ -1,4 +1,9 @@
 one
 two has
+<<<<<<< .merge_file_a06040
 four only to master
 six to master
+=======
+three has to white
+five to white
+>>>>>>> .merge_file_a03124
