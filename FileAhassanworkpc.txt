@@ -10,5 +10,9 @@ Eight
 Nine
 Ten
 Eleven
+<<<<<<< HEAD
 Tolv (I wnat it in branch white)
 Thirteen (to branch white)
+=======
+This line is only in master
+>>>>>>> master
